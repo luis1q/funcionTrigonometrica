@@ -1,0 +1,2 @@
+# funcionTrigonometrica
+PRECALCULO-UNIMINUTO 
